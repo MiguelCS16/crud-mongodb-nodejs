@@ -146,12 +146,11 @@ p {
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 16px;
-    display: flex;
-    flex-direction: column;
-    flex-basis: calc(33.33% - 20px);
+    width: 145%;
     margin-bottom: 20px;
   }
   
+
   .card-content {
     display: flex;
     justify-content: space-between;
@@ -225,22 +224,6 @@ p {
     border-radius: 4px;
     text-decoration: none;
     padding: 8px 12px;
-  }
-  
-  @media (max-width: 768px) {
-    .main-container {
-      flex-direction: column;
-    }
-  
-    .filter-sidebar {
-      width: 100%;
-      padding-right: 0;
-      margin-bottom: 20px;
-    }
-  
-    .card-container {
-      width: 100%;
-    }
   }
   
   .centered-button {
