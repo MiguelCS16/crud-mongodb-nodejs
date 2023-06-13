@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://your-image-url.com" alt="Project Screenshot">
+    <img src="![image](https://github.com/MiguelCS16/crud-mongodb-nodejs/assets/136426983/ba315ac0-7887-4e57-8c31-6685cd1812b6)" alt="Project Screenshot">
 </p>
 
 ## ℹ️ Acerca del Proyecto
