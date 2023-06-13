@@ -32,7 +32,8 @@ La base de datos debe estar implementada con MongoDB, ya sea en un servidor inde
 
 ### Configuración
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/nombre-del-repo.git`
+1. Clona este repositorio: `git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/MiguelCS16/crud-mongodb-nodejs.git)`
 2. Realiza las configuraciones necesarias en el archivo de conexión a MongoDB.
-3. Ejecuta el proyecto utilizando el comando: `comando-de-ejecucion`.
+3. Cambiate a la ruta src utilizando el comando: `cd src`.
+4. Ejecuta el proyecto utilizando el comando: `npx nodemon server`.
 
