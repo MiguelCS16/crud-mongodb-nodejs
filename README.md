@@ -36,17 +36,3 @@ La base de datos debe estar implementada con MongoDB, ya sea en un servidor inde
 2. Realiza las configuraciones necesarias en el archivo de conexión a MongoDB.
 3. Ejecuta el proyecto utilizando el comando: `comando-de-ejecucion`.
 
-## 🤝 Contribución
-
-Se agradecen las contribuciones a este proyecto. Si deseas colaborar, por favor sigue los siguientes pasos:
-
-1. Fork este repositorio.
-2. Crea una rama con tu nueva funcionalidad: `git checkout -b nueva-funcionalidad`.
-3. Realiza los cambios necesarios y realiza los commits: `git commit -am 'Agrega nueva funcionalidad'`.
-4. Push a la rama creada: `git push origin nueva-funcionalidad`.
-5. Abre una Pull Request.
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
